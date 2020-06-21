@@ -12,6 +12,8 @@ A 2048 game api for training supervised learning (imitation learning) or reinfor
 * [`webapp.py`](webapp.py): run the web app (backend) demo.
 * [`evaluate.py`](evaluate.py): evaluate your self-defined agent.
 * [`model.pkl`](model.pkl): My own CNN.
+* [`getdata.py`](evaluate.py): Get some data for training.
+* [`train.py`](evaluate.py): Train my own CNN.
 # Requirements
 * code only tested on linux system (ubuntu 16.04)
 * Python 3 (Anaconda 3.6.3 specifically) with numpy and flask
